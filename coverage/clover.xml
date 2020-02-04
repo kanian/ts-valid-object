@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1580688196784" clover="3.2.0">
+  <project timestamp="1580688196784" name="All files">
+    <metrics statements="112" coveredstatements="106" conditionals="27" coveredconditionals="20" methods="33" coveredmethods="29" elements="172" coveredelements="155" complexity="0" loc="112" ncloc="112" packages="3" files="11" classes="11"/>
+    <package name="src">
+      <metrics statements="65" coveredstatements="61" conditionals="27" coveredconditionals="20" methods="27" coveredmethods="25"/>
+      <file name="ArgumentDescriptor.js" path="/media/patrick/C2D07858D078549F1/Users/User/Documents Ubuntu/Katas/AbstractObject/dist/src/ArgumentDescriptor.js">
+        <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="22" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="6" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+      </file>
+      <file name="ParameterDescriptor.js" path="/media/patrick/C2D07858D078549F1/Users/User/Documents Ubuntu/Katas/AbstractObject/dist/src/ParameterDescriptor.js">
+        <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="4" count="22" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="6" type="stmt"/>
+        <line num="10" count="1" type="stmt"/>
+      </file>
+      <file name="Primitive.js" path="/media/patrick/C2D07858D078549F1/Users/User/Documents Ubuntu/Katas/AbstractObject/dist/src/Primitive.js">
+        <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="5" count="29" type="stmt"/>
+        <line num="6" count="29" type="stmt"/>
+        <line num="7" count="29" type="cond" truecount="2" falsecount="0"/>
+        <line num="8" count="5" type="stmt"/>
+        <line num="10" count="24" type="stmt"/>
+        <line num="13" count="29" type="stmt"/>
+        <line num="16" count="42" type="stmt"/>
+        <line num="19" count="29" type="stmt"/>
+        <line num="20" count="29" type="cond" truecount="2" falsecount="0"/>
+        <line num="23" count="5" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="29" count="2" type="stmt"/>
+      </file>
+      <file name="ValidObject.js" path="/media/patrick/C2D07858D078549F1/Users/User/Documents Ubuntu/Katas/AbstractObject/dist/src/ValidObject.js">
+        <metrics statements="42" coveredstatements="38" conditionals="21" coveredconditionals="14" methods="17" coveredmethods="15"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="14" type="stmt"/>
+        <line num="8" count="14" type="stmt"/>
+        <line num="9" count="14" type="stmt"/>
+        <line num="10" count="13" type="stmt"/>
+        <line num="11" count="13" type="cond" truecount="1" falsecount="1"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="13" type="stmt"/>
+        <line num="15" count="13" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="25" count="28" type="cond" truecount="2" falsecount="0"/>
+        <line num="28" count="14" type="stmt"/>
+        <line num="29" count="13" type="stmt"/>
+        <line num="33" count="14" type="stmt"/>
+        <line num="35" count="27" type="stmt"/>
+        <line num="42" count="26" type="stmt"/>
+        <line num="44" count="92" type="stmt"/>
+        <line num="47" count="3" type="cond" truecount="2" falsecount="0"/>
+        <line num="49" count="2" type="stmt"/>
+        <line num="51" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="56" count="1" type="stmt"/>
+        <line num="63" count="1" type="stmt"/>
+        <line num="66" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="67" count="0" type="stmt"/>
+        <line num="71" count="2" type="stmt"/>
+        <line num="75" count="2" type="stmt"/>
+        <line num="76" count="2" type="cond" truecount="1" falsecount="1"/>
+        <line num="80" count="1" type="stmt"/>
+        <line num="84" count="22" type="stmt"/>
+        <line num="85" count="22" type="stmt"/>
+        <line num="86" count="44" type="cond" truecount="2" falsecount="0"/>
+        <line num="87" count="8" type="stmt"/>
+        <line num="90" count="36" type="stmt"/>
+        <line num="93" count="22" type="stmt"/>
+        <line num="96" count="13" type="stmt"/>
+        <line num="97" count="13" type="cond" truecount="1" falsecount="1"/>
+        <line num="100" count="0" type="stmt"/>
+        <line num="103" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.Factories">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="PrimitiveClassFactory.js" path="/media/patrick/C2D07858D078549F1/Users/User/Documents Ubuntu/Katas/AbstractObject/dist/src/Factories/PrimitiveClassFactory.js">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="2" count="2" type="stmt"/>
+        <line num="3" count="2" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
+        <line num="8" count="29" type="stmt"/>
+        <line num="11" count="5" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="tests.fixtures">
+      <metrics statements="40" coveredstatements="38" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+      <file name="People.js" path="/media/patrick/C2D07858D078549F1/Users/User/Documents Ubuntu/Katas/AbstractObject/dist/tests/fixtures/People.js">
+        <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="2" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+      <file name="Person.js" path="/media/patrick/C2D07858D078549F1/Users/User/Documents Ubuntu/Katas/AbstractObject/dist/tests/fixtures/Person.js">
+        <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="1"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="7" count="7" type="stmt"/>
+        <line num="8" count="7" type="stmt"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+      </file>
+      <file name="PersonAgeNumber.js" path="/media/patrick/C2D07858D078549F1/Users/User/Documents Ubuntu/Katas/AbstractObject/dist/tests/fixtures/PersonAgeNumber.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="PersonNameString.js" path="/media/patrick/C2D07858D078549F1/Users/User/Documents Ubuntu/Katas/AbstractObject/dist/tests/fixtures/PersonNameString.js">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+      </file>
+      <file name="Primitives.js" path="/media/patrick/C2D07858D078549F1/Users/User/Documents Ubuntu/Katas/AbstractObject/dist/tests/fixtures/Primitives.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="14" count="1" type="stmt"/>
+      </file>
+      <file name="schemas.js" path="/media/patrick/C2D07858D078549F1/Users/User/Documents Ubuntu/Katas/AbstractObject/dist/tests/fixtures/schemas.js">
+        <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="19" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
