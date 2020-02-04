@@ -1,7 +1,7 @@
 {
   "author": "Patrick Assoa Adou",
   "name": "ts-valid-object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Build valid objects out of valid primitives and other valid objects",
   "main": "dist/src/index.js",
   "typings": "dist/src/index.d.ts",
