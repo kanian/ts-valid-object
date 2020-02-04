@@ -7,6 +7,6 @@ To install:
   npm package coming soon
   ```
 
-For usage, please read *https://medium.com/@patrick.assoa.adou/valid-typescript-data-guaranteed-f3f3261466bc* .
+For explanations and usage, please read *https://medium.com/@patrick.assoa.adou/valid-typescript-data-guaranteed-f3f3261466bc* .
 
 
